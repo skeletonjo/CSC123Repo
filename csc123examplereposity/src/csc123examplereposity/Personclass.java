@@ -18,5 +18,4 @@ public class Personclass {
 		String Harddrive;
 		double processor;
 	}
-
 }
